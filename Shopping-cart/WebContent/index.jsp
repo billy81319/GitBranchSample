@@ -16,7 +16,7 @@ List<Product> products = pd.getAllProduct();
 <!DOCTYPE html>
 <html>
 <head>
-<title>歡迎 BELOVED商城</title>
+<title>歡迎BELOVED商城</title>
 <%@include file="includes/head.jsp"%>
 
 </head>
